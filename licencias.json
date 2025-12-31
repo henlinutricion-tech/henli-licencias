@@ -6,7 +6,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": true,
+        "parenteral": false,
         "estandarizacion": true
       }
     }
