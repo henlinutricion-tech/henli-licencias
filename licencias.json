@@ -1,10 +1,653 @@
 {
+  "version": "2.0",
+  "fecha_creacion": "2024-01-15",
+  "fecha_actualizacion": "2024-01-15",
+  "total_dispositivos": 57,
   "devices": [
     {
+      "cliente": "Jose",
       "device_name": "JOSE1",
       "processor_id": "BFEBFBFF000A0652",
       "modules": {
-        "clinica": false,
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Yerlis",
+      "device_name": "YERLISH",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Lauren",
+      "device_name": "LAPTOP-CO68IS6Q",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Laura",
+      "device_name": "LAURAH",
+      "processor_id": "178BFBFF00810F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Maye",
+      "device_name": "LAPTOP-HMU359V0",
+      "processor_id": "BFEBFBFF000806C1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Yiseth",
+      "device_name": "YISETH-V",
+      "processor_id": "BFEBFBFF000806C1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Osiris",
+      "device_name": "DESKTOP-P574NIP",
+      "processor_id": "BFEBFBFF000506C9",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Arlyness",
+      "device_name": "ARLYNESG",
+      "processor_id": "BFEBFBFF000706A8",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Paula Alarcón",
+      "device_name": "LAPTOP-CR06DR89",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Keren Avendaño",
+      "device_name": "LAPTOP-BTVT72TG",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Alejandra Jiménez",
+      "device_name": "LAPTOP-60EHP4UH",
+      "processor_id": "178BFBFF00860F01",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Greis Diazgranado",
+      "device_name": "GREIS",
+      "processor_id": "BFEBFBFF000906A4",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Maribella",
+      "device_name": "LAPTOP-43SK63SL",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Natasha Jim",
+      "device_name": "LAPTOP-JQ9IO2B8",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Sharon Fonseca",
+      "device_name": "DESKTOP-NK58BJJ",
+      "processor_id": "178BFBFF00810F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Keren Buelvas",
+      "device_name": "DESKTOP-F3M74AR",
+      "processor_id": "178BFBFF00810F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Wlaychel Oliveres",
+      "device_name": "DESKTOP-I3H49J9",
+      "processor_id": "178BFBFF00A50F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Beatriz",
+      "device_name": "LAPTOP-6LR8PCBD",
+      "processor_id": "BFEBFBFF000906A4",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Melany Arias",
+      "device_name": "MELANY",
+      "processor_id": "BFEBFBFF000806C1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Veronica Arroyo",
+      "device_name": "VERO",
+      "processor_id": "BFEBFBFF000806C1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Isabella",
+      "device_name": "LAPTOP-EMU1LT83",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Michelle Bffa",
+      "device_name": "DESKTOP-4G08F0G",
+      "processor_id": "BFEBFBFF000706A1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Johana Pachón",
+      "device_name": "NOTEBOOK",
+      "processor_id": "BFEBFBFF000806C1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Profe Alejandra",
+      "device_name": "DESKTOP-4M87M3T",
+      "processor_id": "BFEBFBFF000706E5",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Shadia",
+      "device_name": "SHADIA",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Tatiana",
+      "device_name": "DESKTOP-VCEU924",
+      "processor_id": "178BFBFF00820F01",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Michelle Carey",
+      "device_name": "LAPTOP-Q9ELPOL4",
+      "processor_id": "178BFBFF008A0F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Daily Quintero",
+      "device_name": "DESKTOP-LCT41B7",
+      "processor_id": "BFEBFBFF000706E5",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Margarita Rodriguez",
+      "device_name": "DESKTOP-3EU42T4",
+      "processor_id": "178BFBFF008A0F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Natalia Barón",
+      "device_name": "NATALIA-2003",
+      "processor_id": "178BFBFF00810F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Adriana",
+      "device_name": "DESKTOP-CJID9CN",
+      "processor_id": "BFEBFBFF000706A8",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Luis Paternina",
+      "device_name": "LAPTOP-BMFR7ECF",
+      "processor_id": "178BFBFF00810F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Shirley",
+      "device_name": "MASGRO",
+      "processor_id": "BFEBFBFF000806C2",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Mariana",
+      "device_name": "DESKTOP-F2EQPP2",
+      "processor_id": "BFEBFBFF000906A4",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Richell Rodriguez",
+      "device_name": "LAPTOP-E0LKBQ3A",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Sebastian Corporativo",
+      "device_name": "LAPTOP-CLRMGV5O",
+      "processor_id": "BFEBFBFF000B06A2",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Luisa Gutierrez",
+      "device_name": "LUISA",
+      "processor_id": "BFEBFBFF000706E5",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Sharon Ariza",
+      "device_name": "DESKTOP-KPUTVS8",
+      "processor_id": "BFEBFBFF000706E5",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Otako",
+      "device_name": "LAPTOP-P587G9PM",
+      "processor_id": "178BFBFF00860F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Junior Rosado",
+      "device_name": "EVER",
+      "processor_id": "BFEBFBFF000A0653",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Valery Hadechine",
+      "device_name": "DESKTOP-9R6Q31N",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Laura Castro",
+      "device_name": "LAPTOP-1F1BT3FJ",
+      "processor_id": "BFEBFBFF000706E5",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Gaby Pinzon",
+      "device_name": "DESKTOP-V4DHEH2",
+      "processor_id": "178BFBFF00810F10",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Danna Nieto",
+      "device_name": "HP-BS006LA-CELERON",
+      "processor_id": "BFEBFBFF000406C4",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Danna Nieto",
+      "device_name": "DANNA",
+      "processor_id": "BFEBFBFF000406C4",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Mileidys Machacon",
+      "device_name": "DESKTOP-TMIFLFK",
+      "processor_id": "BFEBFBFF000B06A3",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Daniela Viviescas",
+      "device_name": "DANIELA",
+      "processor_id": "178BFBFF00670F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Mauxi",
+      "device_name": "MIAU",
+      "processor_id": "BFEBFBFF000706E5",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Julio Funez",
+      "device_name": "LAPTOP-GI6204B7",
+      "processor_id": "BFEBFBFF000806C1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Natalia Valle",
+      "device_name": "DESKTOP-T10TGQP",
+      "processor_id": "00670F00178BFBFF",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Carlos Berrio",
+      "device_name": "CARLOSBERRIO",
+      "processor_id": "BFEBFBFF000B06A2",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Sirtori 1",
+      "device_name": "DESKTOP-8BP2V2H",
+      "processor_id": "BFEBFBFF00040651",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Sirtori 2",
+      "device_name": "DESKTOP-5BNKFM8",
+      "processor_id": "BFEBFBFF000906EA",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Margarita",
+      "device_name": "DESKTOP-8VSRCV5",
+      "processor_id": "178BFBFF00820F01",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Melany Rodriguez",
+      "device_name": "DESKTOP-TCULG3O",
+      "processor_id": "BFEBFBFF000706A1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Sebastian Parejo",
+      "device_name": "SEBAS",
+      "processor_id": "178BFBFF00810F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Luis Olmedo",
+      "device_name": "DESKTOP-518RMUB",
+      "processor_id": "178BFBFF00670F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Maria Cervantes",
+      "device_name": "DESKTOP-8OTB3EN",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Daniela Bustamante",
+      "device_name": "DANIELA",
+      "processor_id": "BFEBFBFF000706E5",
+      "modules": {
+        "clinica": true,
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": true
