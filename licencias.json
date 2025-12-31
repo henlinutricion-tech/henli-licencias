@@ -2,11 +2,13 @@
   "devices": [
     {
       "device_name": "JOSE1",
-      "processor_id": "BFEBFBFF000A0652"
-    },
-    {
-      "device_name": "PC-ANA",
-      "processor_id": "178BFBFF000906ED"
+      "processor_id": "BFEBFBFF000A0652",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": true
+      }
     }
   ]
 }
