@@ -11,7 +11,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": true
       }
     },
