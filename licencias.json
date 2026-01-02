@@ -650,17 +650,6 @@
         "parenteral": true,
         "estandarizacion": true
       }
-    },
-    {
-      "cliente": "Jhon",
-      "device_name": "LAPTOP-I0B6KBR4",
-      "processor_id": "BFEBFBFF000906A3",
-      "modules": {
-        "clinica": true,
-        "rotulado": true,
-        "parenteral": true,
-        "estandarizacion": true
-      }
     }
   ]
 }
