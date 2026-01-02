@@ -8,9 +8,9 @@
       "processor_id": "BFEBFBFF000A0652",
       "modules": {
         "clinica": true,
-        "rotulado": false,
-        "parenteral": false,
-        "estandarizacion": false 
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true 
       }
     },
     {
