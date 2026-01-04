@@ -649,6 +649,17 @@
         "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
+        }
+    },
+    {
+      "cliente": "Daniela Bustamante",
+      "device_name": "LAPTOP-I0B6KBR4",
+      "processor_id": "BFEBFBFF000906A3",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
