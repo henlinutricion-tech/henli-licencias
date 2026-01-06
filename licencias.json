@@ -650,6 +650,17 @@
         "parenteral": false,
         "estandarizacion": false
       }
+    },
+    {
+      "cliente": "Daniela Bustamante",
+      "device_name": "DANIELA",
+      "processor_id": "BFEBFBFF000706E5",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
+      }
     }
   ]
 }
