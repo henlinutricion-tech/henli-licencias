@@ -653,8 +653,8 @@
     },
     {
       "cliente": "Daniela Bustamante",
-      "device_name": "DANIELA",
-      "processor_id": "BFEBFBFF000706E5",
+      "device_name": "LAPTOP-I0B6KBR4",
+      "processor_id": "BFEBFBFF000906A3",
       "modules": {
         "clinica": true,
         "rotulado": true,
