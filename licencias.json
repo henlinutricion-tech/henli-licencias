@@ -661,6 +661,17 @@
         "parenteral": false,
         "estandarizacion": false
       }
+    },
+    {
+      "cliente": "Nuvis Martinez",
+      "device_name": "DESKTOP-6F7LG8A",
+      "processor_id": "178BFBFF008A0F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
+      }
     }
   ]
 }
