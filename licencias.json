@@ -652,9 +652,9 @@
       }
     },
     {
-      "cliente": "Jhon",
-      "device_name": "LAPTOP-I0B6KBR4",
-      "processor_id": "BFEBFBFF000906A3",
+      "cliente": "MOLY YEPEZ",
+      "device_name": "DESKTOP-KQMULLE",
+      "processor_id": "BFEBFBFF000406C4",
       "modules": {
         "clinica": true,
         "rotulado": true,
