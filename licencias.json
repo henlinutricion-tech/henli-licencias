@@ -103,8 +103,8 @@
     },
     {
       "cliente": "Keren Avendaño",
-      "device_name": "LAPTOP-BTVT72TG",
-      "processor_id": "BFEBFBFF000806EC",
+      "device_name": "KERENS-LAPTOP",
+      "processor_id": "BFEBFBFF000B06A3",
       "modules": {
         "clinica": true,
         "rotulado": true,
