@@ -672,6 +672,17 @@
         "parenteral": false,
         "estandarizacion": false
       }
+    },
+    {
+      "cliente": "Ana Cliente 1 nutrimedu",
+      "device_name": "DESKTOP-43FT2DQ",
+      "processor_id": "BFEBFBFF000806E9",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
+      }
     }
   ]
 }
