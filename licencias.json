@@ -683,6 +683,17 @@
         "parenteral": false,
         "estandarizacion": false
       }
+    },
+    {
+      "cliente": "Sthefani profesora",
+      "device_name": "DESKTOP-NKTH1SQ",
+      "processor_id": "BFEBFBFF000806C1",
+      "modules": {
+        "clinica": false,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
+      }
     }
   ]
 }
