@@ -3,7 +3,7 @@
   "total_dispositivos": 59,
   "devices": [
     {
-      "cliente": "Jose CEO",
+      "cliente": "Jose CEO 1",
       "device_name": "JOSE1",
       "processor_id": "BFEBFBFF000A0652",
       "modules": {
@@ -14,7 +14,7 @@
       }
     },
     {
-      "cliente": "Yerlis",
+      "cliente": "Yerlis 2",
       "device_name": "YERLISH",
       "processor_id": "BFEBFBFF000806EC",
       "modules": {
@@ -25,7 +25,7 @@
       }
     },
     {
-      "cliente": "Lauren",
+      "cliente": "Lauren 3",
       "device_name": "LAPTOP-CO68IS6Q",
       "processor_id": "BFEBFBFF000806EC",
       "modules": {
@@ -36,7 +36,7 @@
       }
     },
     {
-      "cliente": "Laura",
+      "cliente": "Laura 4",
       "device_name": "LAURAH",
       "processor_id": "178BFBFF00810F81",
       "modules": {
@@ -47,7 +47,7 @@
       }
     },
     {
-      "cliente": "Maye",
+      "cliente": "Maye 5",
       "device_name": "LAPTOP-HMU359V0",
       "processor_id": "BFEBFBFF000806C1",
       "modules": {
@@ -58,7 +58,7 @@
       }
     },
     {
-      "cliente": "Yiseth",
+      "cliente": "Yiseth 6",
       "device_name": "YISETH-V",
       "processor_id": "BFEBFBFF000806C1",
       "modules": {
@@ -69,7 +69,7 @@
       }
     },
     {
-      "cliente": "Osiris",
+      "cliente": "Osiris 7",
       "device_name": "DESKTOP-P574NIP",
       "processor_id": "BFEBFBFF000506C9",
       "modules": {
@@ -80,7 +80,7 @@
       }
     },
     {
-      "cliente": "Arlyness",
+      "cliente": "Arlyness 8",
       "device_name": "ARLYNESG",
       "processor_id": "BFEBFBFF000706A8",
       "modules": {
@@ -91,7 +91,7 @@
       }
     },
     {
-      "cliente": "Paula Alarcón",
+      "cliente": "Paula Alarcón 9",
       "device_name": "LAPTOP-CR06DR89",
       "processor_id": "BFEBFBFF000806EC",
       "modules": {
@@ -102,7 +102,7 @@
       }
     },
     {
-      "cliente": "Keren Avendaño",
+      "cliente": "Keren Avendaño 10",
       "device_name": "KERENS-LAPTOP",
       "processor_id": "BFEBFBFF000B06A3",
       "modules": {
@@ -113,7 +113,7 @@
       }
     },
     {
-      "cliente": "Alejandra Jiménez",
+      "cliente": "Alejandra Jiménez 11",
       "device_name": "LAPTOP-60EHP4UH",
       "processor_id": "178BFBFF00860F01",
       "modules": {
@@ -124,7 +124,7 @@
       }
     },
     {
-      "cliente": "Greis Diazgranado",
+      "cliente": "Greis Diazgranado 12",
       "device_name": "GREIS",
       "processor_id": "BFEBFBFF000906A4",
       "modules": {
@@ -135,7 +135,7 @@
       }
     },
     {
-      "cliente": "Maribella",
+      "cliente": "Maribella 13",
       "device_name": "LAPTOP-43SK63SL",
       "processor_id": "BFEBFBFF000806EC",
       "modules": {
@@ -146,7 +146,7 @@
       }
     },
     {
-      "cliente": "Natasha Jim",
+      "cliente": "Natasha Jim 14",
       "device_name": "LAPTOP-JQ9IO2B8",
       "processor_id": "BFEBFBFF000806EC",
       "modules": {
@@ -157,7 +157,7 @@
       }
     },
     {
-      "cliente": "Sharon Fonseca",
+      "cliente": "Sharon Fonseca 15",
       "device_name": "DESKTOP-NK58BJJ",
       "processor_id": "178BFBFF00810F81",
       "modules": {
@@ -168,7 +168,7 @@
       }
     },
     {
-      "cliente": "Keren Buelvas",
+      "cliente": "Keren Buelvas 16",
       "device_name": "DESKTOP-F3M74AR",
       "processor_id": "178BFBFF00810F81",
       "modules": {
@@ -179,7 +179,7 @@
       }
     },
     {
-      "cliente": "Wlaychel Oliveres",
+      "cliente": "Wlaychel Oliveres 17",
       "device_name": "DESKTOP-I3H49J9",
       "processor_id": "178BFBFF00A50F00",
       "modules": {
@@ -190,7 +190,7 @@
       }
     },
     {
-      "cliente": "Beatriz",
+      "cliente": "Beatriz 18",
       "device_name": "LAPTOP-6LR8PCBD",
       "processor_id": "BFEBFBFF000906A4",
       "modules": {
@@ -201,7 +201,7 @@
       }
     },
     {
-      "cliente": "Melany Arias",
+      "cliente": "Melany Arias 19",
       "device_name": "MELANY",
       "processor_id": "BFEBFBFF000806C1",
       "modules": {
@@ -212,7 +212,7 @@
       }
     },
     {
-      "cliente": "Veronica Arroyo",
+      "cliente": "Veronica Arroyo 20",
       "device_name": "VERO",
       "processor_id": "BFEBFBFF000806C1",
       "modules": {
@@ -223,7 +223,7 @@
       }
     },
     {
-      "cliente": "Isabella",
+      "cliente": "Isabella 21",
       "device_name": "LAPTOP-EMU1LT83",
       "processor_id": "BFEBFBFF000806EC",
       "modules": {
@@ -234,7 +234,7 @@
       }
     },
     {
-      "cliente": "Michelle Bffa",
+      "cliente": "Michelle Bffa 22",
       "device_name": "DESKTOP-4G08F0G",
       "processor_id": "BFEBFBFF000706A1",
       "modules": {
@@ -245,7 +245,7 @@
       }
     },
     {
-      "cliente": "Johana Pachón",
+      "cliente": "Johana Pachón 23",
       "device_name": "NOTEBOOK",
       "processor_id": "BFEBFBFF000806C1",
       "modules": {
@@ -256,7 +256,7 @@
       }
     },
     {
-      "cliente": "Profe Alejandra",
+      "cliente": "Profe Alejandra 24",
       "device_name": "DESKTOP-4M87M3T",
       "processor_id": "BFEBFBFF000706E5",
       "modules": {
@@ -267,7 +267,7 @@
       }
     },
     {
-      "cliente": "Shadia",
+      "cliente": "Shadia 25",
       "device_name": "SHADIA",
       "processor_id": "BFEBFBFF000806EC",
       "modules": {
@@ -278,7 +278,7 @@
       }
     },
     {
-      "cliente": "Tatiana",
+      "cliente": "Tatiana 26",
       "device_name": "DESKTOP-VCEU924",
       "processor_id": "178BFBFF00820F01",
       "modules": {
@@ -289,7 +289,7 @@
       }
     },
     {
-      "cliente": "Michelle Carey",
+      "cliente": "Michelle Carey 27",
       "device_name": "LAPTOP-Q9ELPOL4",
       "processor_id": "178BFBFF008A0F00",
       "modules": {
@@ -300,7 +300,7 @@
       }
     },
     {
-      "cliente": "Daily Quintero",
+      "cliente": "Daily Quintero 28",
       "device_name": "DESKTOP-LCT41B7",
       "processor_id": "BFEBFBFF000706E5",
       "modules": {
@@ -311,7 +311,7 @@
       }
     },
     {
-      "cliente": "Margarita Rodriguez",
+      "cliente": "Margarita Rodriguez 29",
       "device_name": "DESKTOP-3EU42T4",
       "processor_id": "178BFBFF008A0F00",
       "modules": {
@@ -322,7 +322,7 @@
       }
     },
     {
-      "cliente": "Natalia Barón",
+      "cliente": "Natalia Barón 30",
       "device_name": "NATALIA-2003",
       "processor_id": "178BFBFF00810F81",
       "modules": {
@@ -333,7 +333,7 @@
       }
     },
     {
-      "cliente": "Adriana",
+      "cliente": "Adriana 31",
       "device_name": "DESKTOP-CJID9CN",
       "processor_id": "BFEBFBFF000706A8",
       "modules": {
@@ -344,7 +344,7 @@
       }
     },
     {
-      "cliente": "Luis Paternina",
+      "cliente": "Luis Paternina 32",
       "device_name": "LAPTOP-BMFR7ECF",
       "processor_id": "178BFBFF00810F81",
       "modules": {
@@ -355,7 +355,7 @@
       }
     },
     {
-      "cliente": "Shirley",
+      "cliente": "Shirley 33",
       "device_name": "MASGRO",
       "processor_id": "BFEBFBFF000806C2",
       "modules": {
@@ -366,7 +366,7 @@
       }
     },
     {
-      "cliente": "Mariana",
+      "cliente": "Mariana 34",
       "device_name": "DESKTOP-F2EQPP2",
       "processor_id": "BFEBFBFF000906A4",
       "modules": {
@@ -377,7 +377,7 @@
       }
     },
     {
-      "cliente": "Richell Rodriguez",
+      "cliente": "Richell Rodriguez 35",
       "device_name": "LAPTOP-E0LKBQ3A",
       "processor_id": "BFEBFBFF000806EC",
       "modules": {
@@ -388,18 +388,7 @@
       }
     },
     {
-      "cliente": "Sebastian Corporativo",
-      "device_name": "LAPTOP-CLRMGV5O",
-      "processor_id": "BFEBFBFF000B06A2",
-      "modules": {
-        "clinica": true,
-        "rotulado": true,
-        "parenteral": false,
-        "estandarizacion": false
-      }
-    },
-    {
-      "cliente": "Luisa Gutierrez",
+      "cliente": "Luisa Gutierrez 36",
       "device_name": "LUISA",
       "processor_id": "BFEBFBFF000706E5",
       "modules": {
@@ -410,7 +399,7 @@
       }
     },
     {
-      "cliente": "Sharon Ariza",
+      "cliente": "Sharon Ariza 37",
       "device_name": "DESKTOP-KPUTVS8",
       "processor_id": "BFEBFBFF000706E5",
       "modules": {
@@ -421,7 +410,7 @@
       }
     },
     {
-      "cliente": "Otako",
+      "cliente": "Otako 38",
       "device_name": "LAPTOP-P587G9PM",
       "processor_id": "178BFBFF00860F81",
       "modules": {
@@ -432,7 +421,7 @@
       }
     },
     {
-      "cliente": "Junior Rosado",
+      "cliente": "Junior Rosado 39",
       "device_name": "EVER",
       "processor_id": "BFEBFBFF000A0653",
       "modules": {
@@ -443,7 +432,7 @@
       }
     },
     {
-      "cliente": "Valery Hadechine",
+      "cliente": "Valery Hadechine 40",
       "device_name": "DESKTOP-9R6Q31N",
       "processor_id": "BFEBFBFF000806EC",
       "modules": {
@@ -454,7 +443,7 @@
       }
     },
     {
-      "cliente": "Laura Castro",
+      "cliente": "Laura Castro 41",
       "device_name": "LAPTOP-1F1BT3FJ",
       "processor_id": "BFEBFBFF000706E5",
       "modules": {
@@ -465,7 +454,7 @@
       }
     },
     {
-      "cliente": "Gaby Pinzon",
+      "cliente": "Gaby Pinzon 42",
       "device_name": "DESKTOP-V4DHEH2",
       "processor_id": "178BFBFF00810F10",
       "modules": {
@@ -476,7 +465,7 @@
       }
     },
     {
-      "cliente": "Danna Nieto",
+      "cliente": "Danna Nieto 43",
       "device_name": "HP-BS006LA-CELERON",
       "processor_id": "BFEBFBFF000406C4",
       "modules": {
@@ -487,7 +476,7 @@
       }
     },
     {
-      "cliente": "Danna Nieto",
+      "cliente": "Danna Nieto 44",
       "device_name": "DANNA",
       "processor_id": "BFEBFBFF000406C4",
       "modules": {
@@ -498,7 +487,7 @@
       }
     },
     {
-      "cliente": "Mileidys Machacon",
+      "cliente": "Mileidys Machacon 45",
       "device_name": "DESKTOP-TMIFLFK",
       "processor_id": "BFEBFBFF000B06A3",
       "modules": {
@@ -509,7 +498,7 @@
       }
     },
     {
-      "cliente": "Daniela Viviescas",
+      "cliente": "Daniela Viviescas 46",
       "device_name": "DANIELA",
       "processor_id": "178BFBFF00670F00",
       "modules": {
@@ -520,7 +509,7 @@
       }
     },
     {
-      "cliente": "Mauxi",
+      "cliente": "Mauxi 47",
       "device_name": "MIAU",
       "processor_id": "BFEBFBFF000706E5",
       "modules": {
@@ -531,7 +520,7 @@
       }
     },
     {
-      "cliente": "Julio Funez",
+      "cliente": "Julio Funez 48",
       "device_name": "LAPTOP-GI6204B7",
       "processor_id": "BFEBFBFF000806C1",
       "modules": {
@@ -542,7 +531,7 @@
       }
     },
     {
-      "cliente": "Natalia Valle",
+      "cliente": "Natalia Valle 49",
       "device_name": "DESKTOP-T10TGQP",
       "processor_id": "00670F00178BFBFF",
       "modules": {
@@ -553,7 +542,7 @@
       }
     },
     {
-      "cliente": "Carlos Berrio",
+      "cliente": "Carlos Berrio 50",
       "device_name": "CARLOSBERRIO",
       "processor_id": "BFEBFBFF000B06A2",
       "modules": {
@@ -564,7 +553,7 @@
       }
     },
     {
-      "cliente": "Sirtori 1",
+      "cliente": "Sirtori 1 51",
       "device_name": "DESKTOP-8BP2V2H",
       "processor_id": "BFEBFBFF00040651",
       "modules": {
@@ -575,7 +564,7 @@
       }
     },
     {
-      "cliente": "Sirtori 2",
+      "cliente": "Sirtori 2 52",
       "device_name": "DESKTOP-5BNKFM8",
       "processor_id": "BFEBFBFF000906EA",
       "modules": {
@@ -586,7 +575,7 @@
       }
     },
     {
-      "cliente": "Margarita",
+      "cliente": "Margarita 53",
       "device_name": "DESKTOP-8VSRCV5",
       "processor_id": "178BFBFF00820F01",
       "modules": {
@@ -597,7 +586,7 @@
       }
     },
     {
-      "cliente": "Melany Rodriguez",
+      "cliente": "Melany Rodriguez 54",
       "device_name": "DESKTOP-TCULG3O",
       "processor_id": "BFEBFBFF000706A1",
       "modules": {
@@ -608,7 +597,7 @@
       }
     },
     {
-      "cliente": "Sebastian Parejo",
+      "cliente": "Sebastian Parejo 55",
       "device_name": "SEBAS",
       "processor_id": "178BFBFF00810F81",
       "modules": {
@@ -619,7 +608,7 @@
       }
     },
     {
-      "cliente": "Luis Olmedo",
+      "cliente": "Luis Olmedo 56",
       "device_name": "DESKTOP-518RMUB",
       "processor_id": "178BFBFF00670F00",
       "modules": {
@@ -630,7 +619,7 @@
       }
     },
     {
-      "cliente": "Maria Cervantes",
+      "cliente": "Maria Cervantes 57",
       "device_name": "DESKTOP-8OTB3EN",
       "processor_id": "BFEBFBFF000806EC",
       "modules": {
@@ -641,7 +630,7 @@
       }
     },
     {
-      "cliente": "Daniela Bustamante",
+      "cliente": "Daniela Bustamante 58",
       "device_name": "DANIELA",
       "processor_id": "BFEBFBFF000706E5",
       "modules": {
@@ -652,7 +641,7 @@
       }
     },
     {
-      "cliente": "MOLY YEPEZ",
+      "cliente": "MOLY YEPEZ 59",
       "device_name": "DESKTOP-KQMULLE",
       "processor_id": "BFEBFBFF000406C4",
       "modules": {
@@ -663,7 +652,7 @@
       }
     },
     {
-      "cliente": "Nuvis Martinez",
+      "cliente": "Nuvis Martinez 60",
       "device_name": "DESKTOP-6F7LG8A",
       "processor_id": "178BFBFF008A0F00",
       "modules": {
@@ -674,7 +663,7 @@
       }
     },
     {
-      "cliente": "Ana Cliente 1 nutrimedu",
+      "cliente": "Ana Cliente 1 nutrimedu 61",
       "device_name": "DESKTOP-43FT2DQ",
       "processor_id": "BFEBFBFF000806E9",
       "modules": {
@@ -685,7 +674,7 @@
       }
     },
     {
-      "cliente": "Sthefani profesora",
+      "cliente": "Sthefani profesora 62",
       "device_name": "DESKTOP-NKTH1SQ",
       "processor_id": "BFEBFBFF000806C1",
       "modules": {
