@@ -683,6 +683,17 @@
         "parenteral": false,
         "estandarizacion": false
       }
+    },
+    {
+      "cliente": "Deira Gonzales",
+      "device_name": "DEIRAGONZALEZ",
+      "processor_id": "BFEBFBFF000706A8",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+      }
     }
   ]
 }
