@@ -42,8 +42,8 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
-        "estandarizacion": false
+        "parenteral": true,
+        "estandarizacion": true
       }
     },
     {
