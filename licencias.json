@@ -693,6 +693,28 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+        }
+    },
+    {
+      "cliente": "Nataly",
+      "device_name": "DESKTOP-FO88T6T",
+      "processor_id": "BFEBFBFF000806C1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
+         }
+    },
+    {
+      "cliente": "Nicole",
+      "device_name": "-",
+      "processor_id": "-",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
