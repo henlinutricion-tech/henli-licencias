@@ -37,8 +37,8 @@
     },
     {
       "cliente": "Laura 4",
-      "device_name": "LAURAH",
-      "processor_id": "178BFBFF00810F81",
+      "device_name": "LAURAHDZV",
+      "processor_id": "178BFBFF008A0F00",
       "modules": {
         "clinica": true,
         "rotulado": true,
