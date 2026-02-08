@@ -708,8 +708,8 @@
     },
     {
       "cliente": "Nicole",
-      "device_name": "-",
-      "processor_id": "-",
+      "device_name": "DESKTOP-8C7D4UN",
+      "processor_id": "BFEBFBFF000806EB",
       "modules": {
         "clinica": true,
         "rotulado": true,
