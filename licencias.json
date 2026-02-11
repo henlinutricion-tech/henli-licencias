@@ -202,8 +202,8 @@
     },
     {
       "cliente": "Melany Arias 19",
-      "device_name": "MELANY",
-      "processor_id": "BFEBFBFF000806C1",
+      "device_name": "PCGINA",
+      "processor_id": "BFEBFBFF000706E5",
       "modules": {
         "clinica": true,
         "rotulado": true,
