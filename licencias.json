@@ -730,7 +730,7 @@
     },
     {
       "cliente": "nutri Diana",
-      "device_name": "DIANAESMERALDA-NUTRICIONISTA",
+      "device_name": "DIANA",
       "processor_id": "BFEBFBFF000706E5",
       "modules": {
         "clinica": true,
