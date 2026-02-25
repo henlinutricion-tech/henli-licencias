@@ -726,6 +726,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+           }
+    },
+    {
+      "cliente": "nutri Diana",
+      "device_name": "DIANAESMERALDA-NUTRICIONISTA",
+      "processor_id": "BFEBFBFF000706E5",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
