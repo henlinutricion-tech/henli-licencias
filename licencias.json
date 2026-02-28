@@ -737,6 +737,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+           }
+    },
+    {
+      "cliente": "Keity rada",
+      "device_name": "DESKTOP-J01A149",
+      "processor_id": "178BFBFF00670F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
