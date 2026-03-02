@@ -748,6 +748,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+                   }
+    },
+    {
+      "cliente": "Jesús Lara",
+      "device_name": "LAPTOP-BFUH8TUR",
+      "processor_id": "BFEBFBFF000706E5",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
