@@ -748,7 +748,7 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
-                   }
+            }
     },
     {
       "cliente": "Jesús Lara",
@@ -757,6 +757,17 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
+           }
+    },
+    {
+      "cliente": "Isa  Sanclemente",
+      "device_name": "LAPTOP-M57J0B5H",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
       }
