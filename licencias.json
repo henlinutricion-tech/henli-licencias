@@ -770,6 +770,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+          }
+    },
+    {
+      "cliente": "Ilmaye",
+      "device_name": "DESKTOP-M1NCJF2",
+      "processor_id": "BFEBFBFF000906C0",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
