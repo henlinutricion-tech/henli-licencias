@@ -807,8 +807,8 @@
     },
     {
       "cliente": "Valeria Mejía",
-      "device_name": "pendiente",
-      "processor_id": "BFEBFBFF000406E3",
+      "device_name": "PCVALERIAME",
+      "processor_id": "BFEBFBFF000B06E0",
       "modules": {
         "clinica": true,
         "rotulado": true,
