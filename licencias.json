@@ -836,6 +836,17 @@
         "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
+                                  }
+    },
+    {
+      "cliente": "Valeska Gómez",
+      "device_name": "DESKTOP-77338V9",
+      "processor_id": "BFEBFBFF000906A4",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
