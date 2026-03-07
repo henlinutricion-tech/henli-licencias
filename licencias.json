@@ -785,8 +785,8 @@
     },
     {
       "cliente": "Daniela valest",
-      "device_name": "----pendiente!",
-      "processor_id": "-pendiente!",
+      "device_name": "DANIELA",
+      "processor_id": "BFEBFBFF000806C1",
       "modules": {
         "clinica": true,
         "rotulado": false,
