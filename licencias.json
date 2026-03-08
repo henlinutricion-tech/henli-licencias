@@ -781,7 +781,7 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
-                  }
+         }
     },
     {
       "cliente": "Daniela valest",
@@ -792,7 +792,7 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
-                          }
+         }
     },
     {
       "cliente": "Valeria Mejía",
@@ -803,7 +803,7 @@
         "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
-                          }
+         }
     },
     {
       "cliente": "Yomary Pérez",
@@ -825,7 +825,7 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
-                          }
+        }
     },
     {
       "cliente": "Jesús Rico",
@@ -836,12 +836,23 @@
         "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
-                                  }
+         }
     },
     {
       "cliente": "Valeska Gómez",
       "device_name": "DESKTOP-77338V9",
       "processor_id": "BFEBFBFF000906A4",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+        }
+    },
+    {
+      "cliente": "Maria Romero",
+      "device_name": "DESKTOP-T4300N9",
+      "processor_id": "BFEBFBFF000706A8",
       "modules": {
         "clinica": true,
         "rotulado": false,
