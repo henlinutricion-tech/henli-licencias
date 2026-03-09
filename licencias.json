@@ -869,7 +869,72 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
-        
+                 }
+    },
+    {
+      "cliente": "Luna Sabala",
+      "device_name": "LUNASABALA",
+      "processor_id": "178BFBFF00860F01",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
+                   }
+    },
+    {
+      "cliente": "-",
+      "device_name": "Cliente",
+      "processor_id": "Cliente",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+                         }
+    },
+    {
+      "cliente": "-",
+      "device_name": "Cliente",
+      "processor_id": "Cliente",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+                         }
+    },
+    {
+      "cliente": "-",
+      "device_name": "Cliente",
+      "processor_id": "Cliente",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+                         }
+    },
+    {
+      "cliente": "-",
+      "device_name": "Cliente",
+      "processor_id": "Cliente",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+                         }
+    },
+    {
+      "cliente": "-",
+      "device_name": "Cliente",
+      "processor_id": "Cliente",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
