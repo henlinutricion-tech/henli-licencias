@@ -916,12 +916,12 @@
                          }
     },
     {
-      "cliente": "-",
-      "device_name": "Cliente",
-      "processor_id": "Cliente",
+      "cliente": "Luna Saenz",
+      "device_name": "HPITO",
+      "processor_id": "BFEBFBFF000906A4",
       "modules": {
         "clinica": true,
-        "rotulado": false,
+        "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
                          }
