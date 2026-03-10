@@ -894,12 +894,12 @@
                          }
     },
     {
-      "cliente": "-",
-      "device_name": "Cliente",
-      "processor_id": "Cliente",
+      "cliente": "Valentina Ávila",
+      "device_name": "VALENTINA_AVILA",
+      "processor_id": "178BFBFF00860F01",
       "modules": {
         "clinica": true,
-        "rotulado": false,
+        "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
                          }
