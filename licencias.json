@@ -883,12 +883,12 @@
                    }
     },
     {
-      "cliente": "-",
-      "device_name": "Cliente",
-      "processor_id": "Cliente",
+      "cliente": "Andrea Perez",
+      "device_name": "DESKTOP-122772O",
+      "processor_id": "BFEBFBFF00040651",
       "modules": {
         "clinica": true,
-        "rotulado": false,
+        "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
                          }
