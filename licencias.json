@@ -905,9 +905,9 @@
                          }
     },
     {
-      "cliente": "-",
-      "device_name": "Cliente",
-      "processor_id": "Cliente",
+      "cliente": "Paula la más mala",
+      "device_name": "DESKTOP-7NALIBG",
+      "processor_id": "BFEBFBFF000806EC",
       "modules": {
         "clinica": true,
         "rotulado": false,
