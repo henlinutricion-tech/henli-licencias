@@ -939,11 +939,11 @@
     },
     {
       "cliente": "-",
-      "device_name": "Cliente",
-      "processor_id": "Cliente",
+      "device_name": "JOSEPH",
+      "processor_id": "178BFBFF00860F81",
       "modules": {
         "clinica": true,
-        "rotulado": false,
+        "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
                            }
