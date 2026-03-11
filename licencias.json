@@ -927,6 +927,39 @@
                          }
     },
     {
+      "cliente": "Luisa Valencia",
+      "device_name": "LAPTOP-577IEDSH",
+      "processor_id": "BFEBFBFF000B06A2",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+                   }
+    },
+    {
+      "cliente": "-",
+      "device_name": "Cliente",
+      "processor_id": "Cliente",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+                           }
+    },
+    {
+      "cliente": "-",
+      "device_name": "Cliente",
+      "processor_id": "Cliente",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+                           }
+    },
+    {
       "cliente": "-",
       "device_name": "Cliente",
       "processor_id": "Cliente",
