@@ -960,9 +960,9 @@
                            }
     },
     {
-      "cliente": "-",
-      "device_name": "Cliente",
-      "processor_id": "Cliente",
+      "cliente": "Diana Gonzales",
+      "device_name": "DESKTOP-0H2RKNL",
+      "processor_id": "BFEBFBFF000806E9",
       "modules": {
         "clinica": true,
         "rotulado": false,
