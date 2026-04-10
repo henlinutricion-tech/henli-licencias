@@ -990,7 +990,7 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
-                    }
+       }
     },
     {
       "cliente": "Estefany",
@@ -1001,7 +1001,29 @@
         "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
-                    }
+           }
+    },
+    {
+      "cliente": "Ana Suarez",
+      "device_name": "DESKTOP-2M7V7RV",
+      "processor_id": "BFEBFBFF000706A8",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+           }
+    },
+    {
+      "cliente": "-",
+      "device_name": "-",
+      "processor_id": "-",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+           }
     },
     {
       "cliente": "-",
