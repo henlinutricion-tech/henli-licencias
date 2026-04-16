@@ -1015,14 +1015,14 @@
            }
     },
     {
-      "cliente": "-",
-      "device_name": "-",
-      "processor_id": "-",
+      "cliente": "CEO LEGION",
+      "device_name": "JOSE1",
+      "processor_id": "BFEBFBFF000B0671",
       "modules": {
         "clinica": true,
-        "rotulado": false,
-        "parenteral": false,
-        "estandarizacion": false
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": true
            }
     },
     {
