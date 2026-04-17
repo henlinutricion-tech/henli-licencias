@@ -1026,12 +1026,12 @@
            }
     },
     {
-      "cliente": "-",
-      "device_name": "-",
-      "processor_id": "-",
+      "cliente": "Daniela Benavides",
+      "device_name": "LAPTOP-UEQ6HDGU",
+      "processor_id": "BFEBFBFF000706E5",
       "modules": {
         "clinica": true,
-        "rotulado": false,
+        "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
       }
