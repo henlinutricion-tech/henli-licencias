@@ -1034,6 +1034,17 @@
         "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
+}
+    },
+    {
+      "cliente": "YANDRA",
+      "device_name": "GABRIEL",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
