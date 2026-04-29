@@ -1045,6 +1045,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+        }
+    },
+    {
+      "cliente": "Sofia Salgado",
+      "device_name": "DESKTOP-7HGG2FG",
+      "processor_id": "BFEBFBFF000706A8",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
