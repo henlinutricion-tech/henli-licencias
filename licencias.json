@@ -1056,6 +1056,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+                }
+    },
+    {
+      "cliente": "Jimena Jimenez",
+      "device_name": "JIMENA",
+      "processor_id": "BFEBFBFF000906C0",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
