@@ -642,8 +642,8 @@
     },
     {
       "cliente": "MOLY YEPEZ 59",
-      "device_name": "DESKTOP-KQMULLE",
-      "processor_id": "BFEBFBFF000406C4",
+      "device_name": "DESKTOP-856T5GH",
+      "processor_id": "178BFBFF008A0F00",
       "modules": {
         "clinica": true,
         "rotulado": false,
@@ -1060,6 +1060,17 @@
     },
     {
       "cliente": "Jimena Jimenez",
+      "device_name": "JIMENA",
+      "processor_id": "BFEBFBFF000906C0",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+                        }
+    },
+    {
+      "cliente": "-",
       "device_name": "JIMENA",
       "processor_id": "BFEBFBFF000906C0",
       "modules": {
