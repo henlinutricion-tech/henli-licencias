@@ -1056,7 +1056,7 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
-                }
+         }
     },
     {
       "cliente": "Jimena Jimenez",
@@ -1067,7 +1067,7 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
-                        }
+      }
     },
     {
       "cliente": "Nayleth",
@@ -1076,6 +1076,17 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
+        }
+    },
+    {
+      "cliente": "Alejandra Espinosa",
+      "device_name": "DESKTOP-MBM5IP3",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
       }
