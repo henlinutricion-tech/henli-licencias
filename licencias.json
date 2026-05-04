@@ -1070,12 +1070,12 @@
                         }
     },
     {
-      "cliente": "-",
-      "device_name": "JIMENA",
-      "processor_id": "BFEBFBFF000906C0",
+      "cliente": "Nayleth",
+      "device_name": "LAPTOP-ANPKKLSB",
+      "processor_id": "BFEBFBFF000B06A2",
       "modules": {
         "clinica": true,
-        "rotulado": false,
+        "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
       }
