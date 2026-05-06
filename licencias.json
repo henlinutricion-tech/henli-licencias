@@ -1089,6 +1089,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+                }
+    },
+    {
+      "cliente": "Jessica Quintero",
+      "device_name": "LAPTOP-KIQL41SJ",
+      "processor_id": "178BFBFF008A0F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
