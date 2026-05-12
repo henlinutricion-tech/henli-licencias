@@ -1100,6 +1100,17 @@
         "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
+                        }
+    },
+    {
+      "cliente": "Imelda",
+      "device_name": "DESKTOP-MP4QLLH",
+      "processor_id": "BFEBFBFF000806E9",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
