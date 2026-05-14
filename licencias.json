@@ -1111,6 +1111,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+                                }
+    },
+    {
+      "cliente": "Melissa Guzman",
+      "device_name": "DESKTOP-HOQR2Q1",
+      "processor_id": "178BFBFF00810F10",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
