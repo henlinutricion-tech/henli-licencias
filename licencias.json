@@ -1122,6 +1122,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+                                        }
+    },
+    {
+      "cliente": "Catalina Jimenez",
+      "device_name": "DESKTOP-2522LLV",
+      "processor_id": "BFEBFBFF000706A8",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
