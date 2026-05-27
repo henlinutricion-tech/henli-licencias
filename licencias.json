@@ -1166,6 +1166,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+                           }
+    },
+    {
+      "cliente": "Eduardo Nutrimedu Ossa",
+      "device_name": "DESKTOP-1EFDQCC",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": false,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
