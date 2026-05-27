@@ -1144,6 +1144,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+           }
+    },
+    {
+      "cliente": "Angie Royero",
+      "device_name": "ANGIE",
+      "processor_id": "BFEBFBFF000B06E0",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
