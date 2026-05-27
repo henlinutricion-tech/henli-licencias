@@ -1155,6 +1155,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+                   }
+    },
+    {
+      "cliente": "Evelyn Martinez",
+      "device_name": "DESKTOP-EGHK9L4",
+      "processor_id": "178BFBFF00810F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
