@@ -1177,6 +1177,17 @@
         "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
+               }
+    },
+    {
+      "cliente": "Karina",
+      "device_name": "DESKTOP-SAP1K6A",
+      "processor_id": "BFEBFBFF000806E9",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
