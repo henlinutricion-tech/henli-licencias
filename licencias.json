@@ -1180,9 +1180,20 @@
                }
     },
     {
-      "cliente": "Karina",
+      "cliente": "Karina otako",
       "device_name": "DESKTOP-SAP1K6A",
       "processor_id": "BFEBFBFF000806E9",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+                       }
+    },
+    {
+      "cliente": "Olga coleta",
+      "device_name": "DESKTOP-I8KOCBF",
+      "processor_id": "BFEBFBFF000B06E0",
       "modules": {
         "clinica": true,
         "rotulado": true,
