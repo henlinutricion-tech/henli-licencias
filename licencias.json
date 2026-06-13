@@ -1173,6 +1173,8 @@
       "device_name": "DESKTOP-1EFDQCC",
       "processor_id": "BFEBFBFF000806EC",
       "modules": {
+        "clinica": true,
+        "rotulado": true,
         "clinica": false,
         "rotulado": true,
         "parenteral": false,
@@ -1184,8 +1186,6 @@
       "device_name": "DESKTOP-SAP1K6A",
       "processor_id": "BFEBFBFF000806E9",
       "modules": {
-        "clinica": true,
-        "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
                        }
@@ -1198,6 +1198,17 @@
         "clinica": true,
         "rotulado": true,
         "parenteral": true,
+        "estandarizacion": false
+                               }
+    },
+    {
+      "cliente": "Jhonatan",
+      "device_name": "5CD4140FTK",
+      "processor_id": "178BFBFF00A50F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
         "estandarizacion": false
       }
     }
