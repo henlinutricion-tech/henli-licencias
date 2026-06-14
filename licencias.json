@@ -1210,6 +1210,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+                                       }
+    },
+    {
+      "cliente": "Natalia Gutierrez",
+      "device_name": "DESKTOP-VRTV98D",
+      "processor_id": "BFEBFBFF000906A4",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
