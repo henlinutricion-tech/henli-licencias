@@ -521,8 +521,8 @@
     },
     {
       "cliente": "Julio Funez 48",
-      "device_name": "LAPTOP-GI6204B7",
-      "processor_id": "BFEBFBFF000806C1",
+      "device_name": "JFUNEZ04",
+      "processor_id": "BFEBFBFF000B06E0",
       "modules": {
         "clinica": true,
         "rotulado": true,
