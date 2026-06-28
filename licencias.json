@@ -1221,6 +1221,17 @@
         "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
+                                               }
+    },
+    {
+      "cliente": "Andreina Escorcia Reales",
+      "device_name": "LAPTOP-AENSKPVM",
+      "processor_id": "178BFBFF008A0F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
