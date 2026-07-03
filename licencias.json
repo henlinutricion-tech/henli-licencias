@@ -532,8 +532,8 @@
     },
     {
       "cliente": "Natalia Valle 49",
-      "device_name": "DESKTOP-T10TGQP",
-      "processor_id": "00670F00178BFBFF",
+      "device_name": "NATALIA",
+      "processor_id": "BFEBFBFF000B06A3",
       "modules": {
         "clinica": true,
         "rotulado": true,
