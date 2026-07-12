@@ -1232,6 +1232,17 @@
         "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
+               }
+    },
+    {
+      "cliente": "Diana Marcela Romero",
+      "device_name": "DESKTOP-E93PB8V",
+      "processor_id": "178BFBFF00860F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
