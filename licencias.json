@@ -1243,6 +1243,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+                       }
+    },
+    {
+      "cliente": "Luis Alfredo Saucedo Ospino",
+      "device_name": "DESKTOP-K1O9C1M",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
