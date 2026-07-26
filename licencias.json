@@ -1254,6 +1254,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+         }
+    },
+    {
+      "cliente": "ILKA NOLENIS CURIEL CORREA",
+      "device_name": "ILKA",
+      "processor_id": "BFEBFBFF000B06A3",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
