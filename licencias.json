@@ -1265,6 +1265,17 @@
         "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
+                 }
+    },
+    {
+      "cliente": "Maria Lucia Arrieta Pajaro",
+      "device_name": "DESKTOP-1UDPMOU",
+      "processor_id": "BFEBFBFF000706E5",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
