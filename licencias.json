@@ -1298,6 +1298,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+           }
+    },
+    {
+      "cliente": "Zoray Daileth Peñalver Duarte",
+      "device_name": "ZORA",
+      "processor_id": "178BFBFF00860F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
