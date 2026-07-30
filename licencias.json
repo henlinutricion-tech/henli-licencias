@@ -1022,7 +1022,7 @@
         "clinica": true,
         "rotulado": true,
         "parenteral": true,
-        "estandarizacion": false
+        "estandarizacion": true
            }
     },
     {
