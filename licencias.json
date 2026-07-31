@@ -1320,6 +1320,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+                   }
+    },
+    {
+      "cliente": "Aurora Tilvez Algarin",
+      "device_name": "DESKTOP-SVF1BM9",
+      "processor_id": "178BFBFF00810F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
