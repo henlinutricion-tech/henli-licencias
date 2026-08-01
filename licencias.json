@@ -1,4 +1,4 @@
-{
+,{
   "version": "3.3",
   "total_dispositivos": 59,
   "devices": [
@@ -1329,6 +1329,17 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
+            }
+    },
+    {
+      "cliente": "María José Serpa Otero",
+      "device_name": "DESKTOP-3C5KVEU",
+      "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
       }
