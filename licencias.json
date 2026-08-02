@@ -1342,6 +1342,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+                    }
+    },
+    {
+      "cliente": "Mayda Dariana Meneses Macias",
+      "device_name": "DESKTOP-KU1RBDS",
+      "processor_id": "178BFBFF00670F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
