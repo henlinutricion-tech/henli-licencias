@@ -268,8 +268,8 @@
     },
     {
       "cliente": "Shadia 25",
-      "device_name": "SHADIA",
-      "processor_id": "BFEBFBFF000806EC",
+      "device_name": "LAPTOP-OLUTCE7O",
+      "processor_id": "BFEBFBFF000B06A2",
       "modules": {
         "clinica": true,
         "rotulado": true,
