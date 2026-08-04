@@ -1364,6 +1364,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+         }
+    },
+    {
+      "cliente": "Karla Xiomara Rueda Aguirre",
+      "device_name": "RUEDA",
+      "processor_id": "178BFBFF008A0F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
