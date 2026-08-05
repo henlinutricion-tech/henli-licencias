@@ -1203,8 +1203,8 @@
     },
     {
       "cliente": "Jhonatan",
-      "device_name": "5CD4140FTK",
-      "processor_id": "178BFBFF00A50F00",
+      "device_name": "SEBASTIAN",
+      "processor_id": "BFEBFBFF000706E5",
       "modules": {
         "clinica": true,
         "rotulado": false,
@@ -1381,6 +1381,17 @@
       "cliente": "Megibes Sanchez Orellano",
       "device_name": "DESKTOP-LB0OR7T",
       "processor_id": "BFEBFBFF000B06A3",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": false,
+        "estandarizacion": false
+        }
+    },
+    {
+      "cliente": "-",
+      "device_name": "-",
+      "processor_id": "1111",
       "modules": {
         "clinica": true,
         "rotulado": true,
