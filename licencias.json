@@ -997,7 +997,7 @@
       "device_name": "ESTEFANY",
       "processor_id": "BFEBFBFF000B06A2",
       "modules": {
-        "clinica": false,
+        "clinica": true,
         "rotulado": true,
         "parenteral": false,
         "estandarizacion": false
