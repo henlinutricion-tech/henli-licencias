@@ -1389,6 +1389,17 @@
         }
     },
     {
+      "cliente": "Nicole Andrea Torres Cervantes",
+      "device_name": "DESKTOP-DEDPJTC",
+      "processor_id": "BFEBFBFF000906C0",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+         }
+    },
+    {
       "cliente": "-",
       "device_name": "-",
       "processor_id": "1111",
