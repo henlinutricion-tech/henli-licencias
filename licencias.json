@@ -1,4 +1,4 @@
-,{
+{
   "version": "3.3",
   "total_dispositivos": 59,
   "devices": [
@@ -20,7 +20,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -31,7 +31,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -53,7 +53,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -64,7 +64,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -75,7 +75,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -86,7 +86,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -97,7 +97,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -108,7 +108,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -119,7 +119,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -130,7 +130,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -141,7 +141,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -152,7 +152,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -163,7 +163,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -174,7 +174,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -185,7 +185,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -196,7 +196,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -207,7 +207,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -218,7 +218,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -229,7 +229,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -240,7 +240,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -251,7 +251,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -262,7 +262,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -273,7 +273,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -284,7 +284,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -295,7 +295,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -306,7 +306,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -317,7 +317,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -328,7 +328,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -339,7 +339,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -350,7 +350,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -361,7 +361,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -372,7 +372,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -383,7 +383,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -394,7 +394,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -405,7 +405,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -427,7 +427,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -438,7 +438,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -449,7 +449,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -460,7 +460,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -471,7 +471,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -482,7 +482,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -493,7 +493,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -504,7 +504,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -515,7 +515,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -526,7 +526,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -537,7 +537,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -548,7 +548,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -559,7 +559,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -570,7 +570,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -581,7 +581,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -592,7 +592,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -603,7 +603,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -614,7 +614,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -625,7 +625,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -636,7 +636,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -647,7 +647,7 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -658,7 +658,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -669,7 +669,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -680,7 +680,7 @@
       "modules": {
         "clinica": false,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -691,9 +691,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-        }
+      }
     },
     {
       "cliente": "Nataly",
@@ -702,9 +702,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-         }
+      }
     },
     {
       "cliente": "Nicole",
@@ -713,9 +713,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-          }
+      }
     },
     {
       "cliente": "Milene",
@@ -724,9 +724,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-           }
+      }
     },
     {
       "cliente": "nutri Diana",
@@ -735,9 +735,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-           }
+      }
     },
     {
       "cliente": "Keity rada",
@@ -746,9 +746,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-            }
+      }
     },
     {
       "cliente": "Jesús Lara",
@@ -757,9 +757,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-           }
+      }
     },
     {
       "cliente": "Isa  Sanclemente",
@@ -768,9 +768,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-          }
+      }
     },
     {
       "cliente": "Ilmaye",
@@ -779,9 +779,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-         }
+      }
     },
     {
       "cliente": "Daniela valest",
@@ -790,9 +790,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-         }
+      }
     },
     {
       "cliente": "Valeria Mejía",
@@ -801,9 +801,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-         }
+      }
     },
     {
       "cliente": "Yomary Pérez",
@@ -812,9 +812,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                          }
+      }
     },
     {
       "cliente": "Xelenys Granados",
@@ -823,9 +823,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-        }
+      }
     },
     {
       "cliente": "Jesús Rico",
@@ -834,9 +834,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-         }
+      }
     },
     {
       "cliente": "Valeska Gómez",
@@ -845,9 +845,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-        }
+      }
     },
     {
       "cliente": "Maria Romero",
@@ -856,9 +856,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-         }
+      }
     },
     {
       "cliente": "Mayler",
@@ -867,9 +867,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                 }
+      }
     },
     {
       "cliente": "Luna Sabala",
@@ -878,9 +878,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                   }
+      }
     },
     {
       "cliente": "Andrea Perez",
@@ -889,9 +889,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                         }
+      }
     },
     {
       "cliente": "Valentina Ávila",
@@ -900,9 +900,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                         }
+      }
     },
     {
       "cliente": "Paula la más mala",
@@ -911,9 +911,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                         }
+      }
     },
     {
       "cliente": "Luna Saenz",
@@ -922,9 +922,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                         }
+      }
     },
     {
       "cliente": "Luisa Valencia",
@@ -933,9 +933,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                   }
+      }
     },
     {
       "cliente": "-",
@@ -944,9 +944,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                           }
+      }
     },
     {
       "cliente": "Valentina serje",
@@ -955,9 +955,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                           }
+      }
     },
     {
       "cliente": "Diana Gonzales",
@@ -966,9 +966,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-            }
+      }
     },
     {
       "cliente": "Mayrobis",
@@ -977,9 +977,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                    }
+      }
     },
     {
       "cliente": "Danna Mengual",
@@ -988,9 +988,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-       }
+      }
     },
     {
       "cliente": "Estefany",
@@ -999,9 +999,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-           }
+      }
     },
     {
       "cliente": "Ana Suarez",
@@ -1010,9 +1010,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-           }
+      }
     },
     {
       "cliente": "CEO LEGION",
@@ -1023,7 +1023,7 @@
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": true
-           }
+      }
     },
     {
       "cliente": "Daniela Benavides",
@@ -1032,9 +1032,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-}
+      }
     },
     {
       "cliente": "YANDRA",
@@ -1043,9 +1043,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-        }
+      }
     },
     {
       "cliente": "Sofia Salgado",
@@ -1054,9 +1054,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-         }
+      }
     },
     {
       "cliente": "Jimena Jimenez",
@@ -1065,7 +1065,7 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     },
@@ -1076,9 +1076,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-        }
+      }
     },
     {
       "cliente": "Alejandra Espinosa",
@@ -1087,9 +1087,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                }
+      }
     },
     {
       "cliente": "Jessica Quintero",
@@ -1098,9 +1098,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                        }
+      }
     },
     {
       "cliente": "Imelda",
@@ -1109,9 +1109,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                                }
+      }
     },
     {
       "cliente": "Melissa Guzman",
@@ -1120,9 +1120,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                }
+      }
     },
     {
       "cliente": "Catalina Jimenez",
@@ -1131,9 +1131,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-               }
+      }
     },
     {
       "cliente": "Daniela Ochoa",
@@ -1142,9 +1142,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-           }
+      }
     },
     {
       "cliente": "Angie Royero",
@@ -1153,9 +1153,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                   }
+      }
     },
     {
       "cliente": "Evelyn Martinez",
@@ -1164,31 +1164,31 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                           }
+      }
     },
     {
       "cliente": "Eduardo Nutrimedu Ossa",
       "device_name": "DESKTOP-1EFDQCC",
       "processor_id": "BFEBFBFF000806EC",
       "modules": {
-        "clinica": true,
-        "rotulado": true,
         "clinica": false,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-               }
+      }
     },
     {
       "cliente": "Karina otako",
       "device_name": "DESKTOP-SAP1K6A",
       "processor_id": "BFEBFBFF000806E9",
       "modules": {
+        "clinica": true,
+        "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
-                       }
+      }
     },
     {
       "cliente": "Olga coleta",
@@ -1199,7 +1199,7 @@
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
-                               }
+      }
     },
     {
       "cliente": "Jhonatan",
@@ -1208,9 +1208,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                                       }
+      }
     },
     {
       "cliente": "Natalia Gutierrez",
@@ -1219,9 +1219,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                                               }
+      }
     },
     {
       "cliente": "Andreina Escorcia Reales",
@@ -1230,9 +1230,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-               }
+      }
     },
     {
       "cliente": "Diana Marcela Romero",
@@ -1241,9 +1241,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                       }
+      }
     },
     {
       "cliente": "Luis Alfredo Saucedo Ospino",
@@ -1252,9 +1252,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-         }
+      }
     },
     {
       "cliente": "ILKA NOLENIS CURIEL CORREA",
@@ -1263,9 +1263,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                 }
+      }
     },
     {
       "cliente": "Maria Lucia Arrieta Pajaro",
@@ -1274,9 +1274,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                         }
+      }
     },
     {
       "cliente": "Daniela Alexandra Mejia Forero",
@@ -1285,9 +1285,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-           }
+      }
     },
     {
       "cliente": "isabella maria castro romero",
@@ -1296,9 +1296,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-           }
+      }
     },
     {
       "cliente": "Zoray Daileth Peñalver Duarte",
@@ -1307,9 +1307,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-           }
+      }
     },
     {
       "cliente": "VALERY BERTEL SANEZ",
@@ -1318,9 +1318,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                   }
+      }
     },
     {
       "cliente": "Aurora Tilvez Algarin",
@@ -1329,9 +1329,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-            }
+      }
     },
     {
       "cliente": "María José Serpa Otero",
@@ -1340,9 +1340,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-                    }
+      }
     },
     {
       "cliente": "Mayda Dariana Meneses Macias",
@@ -1351,9 +1351,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-          }
+      }
     },
     {
       "cliente": "Luisa Fernanda Suárez Pacheco",
@@ -1362,9 +1362,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-         }
+      }
     },
     {
       "cliente": "Karla Xiomara Rueda Aguirre",
@@ -1373,9 +1373,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-          }
+      }
     },
     {
       "cliente": "Megibes Sanchez Orellano",
@@ -1384,9 +1384,9 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-        }
+      }
     },
     {
       "cliente": "Nicole Andrea Torres Cervantes",
@@ -1395,9 +1395,9 @@
       "modules": {
         "clinica": true,
         "rotulado": false,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
-         }
+      }
     },
     {
       "cliente": "Marcoantonio Diaz Coronel",
@@ -1406,7 +1406,7 @@
       "modules": {
         "clinica": true,
         "rotulado": true,
-        "parenteral": false,
+        "parenteral": true,
         "estandarizacion": false
       }
     }
