@@ -1400,9 +1400,9 @@
          }
     },
     {
-      "cliente": "-",
-      "device_name": "-",
-      "processor_id": "1111",
+      "cliente": "Marcoantonio Diaz Coronel",
+      "device_name": "DESKTOP-V82SDNI",
+      "processor_id": "178BFBFF00860F81",
       "modules": {
         "clinica": true,
         "rotulado": true,
