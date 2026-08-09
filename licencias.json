@@ -4,8 +4,8 @@
   "devices": [
     {
       "cliente": "Jose CEO 1",
-      "device_name": "JOSE1",
-      "processor_id": "BFEBFBFF000A0652",
+      "device_name": "JOSE2",
+      "processor_id": "BFEBFBFF000A0651",
       "modules": {
         "clinica": true,
         "rotulado": true,
