@@ -1,11 +1,11 @@
 {
   "version": "3.3",
-  "total_dispositivos": 59,
+  "total_dispositivos": 128,
   "devices": [
     {
       "cliente": "Jose CEO 1",
-      "device_name": "JOSE2",
-      "processor_id": "BFEBFBFF000A0651",
+      "device_name": "JOSE1",
+      "processor_id": "BFEBFBFF000A0652",
       "modules": {
         "clinica": true,
         "rotulado": true,
