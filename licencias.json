@@ -1408,6 +1408,17 @@
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
+        }
+    },
+    {
+      "cliente": "Ivanna Canchila Ospino",
+      "device_name": "IVANNA_CANCHILA",
+      "processor_id": "BFEBFBFF000B06A3",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
