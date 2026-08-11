@@ -1419,6 +1419,17 @@
         "rotulado": false,
         "parenteral": true,
         "estandarizacion": false
+         }
+    },
+    {
+      "cliente": "Camila Andrea Pacheco Riveira",
+      "device_name": "LAPTOP-91HNLE31",
+      "processor_id": "BFEBFBFF000B06A2",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
