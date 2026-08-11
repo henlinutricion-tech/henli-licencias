@@ -59,8 +59,8 @@
     },
     {
       "cliente": "Yiseth 6",
-      "device_name": "YISETH-V",
-      "processor_id": "BFEBFBFF000806C1",
+      "device_name": "LAPTOP-2I3QO530",
+      "processor_id": "BFEBFBFF000B0650",
       "modules": {
         "clinica": true,
         "rotulado": true,
