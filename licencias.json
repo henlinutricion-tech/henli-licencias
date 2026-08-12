@@ -1441,6 +1441,17 @@
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
+         }
+    },
+    {
+      "cliente": "Natalia Rueda Jaramillo",
+      "device_name": "LAPTOP-MU2O90K5",
+      "processor_id": "BFEBFBFF000B06E0",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
