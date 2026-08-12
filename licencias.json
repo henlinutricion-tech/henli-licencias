@@ -1452,6 +1452,17 @@
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
+         }
+    },
+    {
+      "cliente": "Lisseth Dayanna Maldonado Goyeneche",
+      "device_name": "DESKTOP-FAP3MIT",
+      "processor_id": "178BFBFF00860F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
