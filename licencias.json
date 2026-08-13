@@ -1463,6 +1463,17 @@
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
+         }
+    },
+    {
+      "cliente": "maria alejandra caballero ortega",
+      "device_name": "LAPTOP-0I2SEJGU",
+      "processor_id": "178BFBFF00A50F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
