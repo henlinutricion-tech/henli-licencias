@@ -678,7 +678,7 @@
       "device_name": "DESKTOP-NKTH1SQ",
       "processor_id": "BFEBFBFF000806C1",
       "modules": {
-        "clinica": false,
+        "clinica": true,
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
