@@ -1496,6 +1496,17 @@
         "rotulado": false,
         "parenteral": true,
         "estandarizacion": false
+         }
+    },
+    {
+      "cliente": "Mariana Camila Gutierrez Barrios",
+      "device_name": "LAPTOP-HGKT9O96",
+      "processor_id": "178BFBFF00810F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
