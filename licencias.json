@@ -1485,6 +1485,17 @@
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
+        }
+    },
+    {
+      "cliente": "Angela Maria Almanza Melendez",
+      "device_name": "LAPTOP-8E6BH9VE",
+      "processor_id": "178BFBFF00860F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
