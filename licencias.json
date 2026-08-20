@@ -1518,6 +1518,17 @@
         "rotulado": false,
         "parenteral": true,
         "estandarizacion": false
+        }
+    },
+    {
+      "cliente": "EIBLIN ORTEGA OROZCO",
+      "device_name": "DESKTOP-S1MIQS2",
+      "processor_id": "BFEBFBFF000806C1",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
