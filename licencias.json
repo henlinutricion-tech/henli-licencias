@@ -1529,6 +1529,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+        }
+    },
+    {
+      "cliente": "LORAINE RODRIGUEZ ARAGON",
+      "device_name": "LORY",
+      "processor_id": "BFEBFBFF000B06E0",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
