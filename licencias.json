@@ -158,8 +158,8 @@
     },
     {
       "cliente": "Sharon Fonseca 15",
-      "device_name": "DESKTOP-NK58BJJ",
-      "processor_id": "178BFBFF00810F81",
+      "device_name": "SAMI04",
+      "processor_id": "BFEBFBFF000A06A4",
       "modules": {
         "clinica": true,
         "rotulado": true,
