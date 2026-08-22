@@ -646,7 +646,7 @@
       "processor_id": "178BFBFF008A0F00",
       "modules": {
         "clinica": true,
-        "rotulado": false,
+        "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
       }
