@@ -1551,6 +1551,17 @@
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
+}
+    },
+    {
+      "cliente": "LUISITA",
+      "device_name": "LUISAMARIA",
+      "processor_id": "BFEBFBFF000906A4",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
