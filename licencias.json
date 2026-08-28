@@ -1562,6 +1562,17 @@
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
+        }
+    },
+    {
+      "cliente": "Ailen Yulianis Fuentes Salgado",
+      "device_name": "LAPTOP-I9MGBHRD",
+      "processor_id": "178BFBFF00810F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
       }
     }
   ]
