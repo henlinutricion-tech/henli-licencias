@@ -1573,6 +1573,17 @@
         "rotulado": false,
         "parenteral": false,
         "estandarizacion": false
+        }
+    },
+    {
+      "cliente": "Mercedes Leonor Arteta Estrada",
+      "device_name": "FLA-DELCASTILLO",
+      "processor_id": "BFEBFBFF000B06A2",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
