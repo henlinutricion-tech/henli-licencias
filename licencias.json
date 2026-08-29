@@ -1584,6 +1584,17 @@
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
+         }
+    },
+    {
+      "cliente": "James David Junca Eraso",
+      "device_name": "DESKTOP-HDAUUUR",
+      "processor_id": "BFEBFBFF000806C1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
