@@ -1595,6 +1595,17 @@
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
+         }
+    },
+    {
+      "cliente": "Yirley Julieth Hernández Cárcamo",
+      "device_name": "DESKTOP-RH2V10B",
+      "processor_id": "BFEBFBFF000806E9",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
