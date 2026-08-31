@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 128,
+  "total_dispositivos": 147,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1601,6 +1601,17 @@
       "cliente": "Yirley Julieth Hernández Cárcamo",
       "device_name": "DESKTOP-RH2V10B",
       "processor_id": "BFEBFBFF000806E9",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "José Osorio",
+      "device_name": "JOSE1",
+      "processor_id": "BFEBFBFF000B0671",
       "modules": {
         "clinica": true,
         "rotulado": true,
