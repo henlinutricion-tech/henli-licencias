@@ -1016,8 +1016,8 @@
     },
     {
       "cliente": "CEO LEGION",
-      "device_name": "JOSE1",
-      "processor_id": "BFEBFBFF000B0671",
+      "device_name": "JOSE22",
+      "processor_id": "BFEBFBFF000B06700",
       "modules": {
         "clinica": true,
         "rotulado": true,
