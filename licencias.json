@@ -1607,17 +1607,6 @@
         "parenteral": true,
         "estandarizacion": false
       }
-    },
-    {
-      "cliente": 123,
-      "device_name": "JOSE1",
-      "processor_id": "BFEBFBFF000B0671",
-      "modules": {
-        "clinica": true,
-        "rotulado": true,
-        "parenteral": true,
-        "estandarizacion": true
-      }
     }
   ]
 }
