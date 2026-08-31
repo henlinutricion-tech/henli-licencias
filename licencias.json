@@ -1613,8 +1613,8 @@
       "device_name": "JOSE1",
       "processor_id": "BFEBFBFF000B0671",
       "modules": {
-        "clinica": false,
-        "rotulado": false,
+        "clinica": true,
+        "rotulado": true,
         "parenteral": true,
         "estandarizacion": false
       }
