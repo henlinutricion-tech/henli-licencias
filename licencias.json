@@ -1607,6 +1607,17 @@
         "parenteral": true,
         "estandarizacion": false
       }
+    },
+    {
+      "cliente": "luisa",
+      "device_name": "JOSE1",
+      "processor_id": "BFEBFBFF000B0671",
+      "modules": {
+        "clinica": true,
+        "rotulado": false,
+        "parenteral": false,
+        "estandarizacion": false
+      }
     }
   ]
 }
