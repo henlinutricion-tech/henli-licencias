@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 147,
+  "total_dispositivos": 148,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1616,6 +1616,17 @@
         "clinica": true,
         "rotulado": false,
         "parenteral": false,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Valentina Angarita Tobias",
+      "device_name": "JOSEPH",
+      "processor_id": "BFEBFBFF000B06A2",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
         "estandarizacion": false
       }
     }
