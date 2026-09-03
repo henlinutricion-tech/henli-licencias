@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 149,
+  "total_dispositivos": 150,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1634,6 +1634,17 @@
       "cliente": "Jerson Andres Gonzalez Pencue",
       "device_name": "DESKTOP-7VFS5R5",
       "processor_id": "BFEBFBFF000B06D1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Yury Leidy Quiceno Carvajal",
+      "device_name": "DESKTOP-B8CVIJO",
+      "processor_id": "BFEBFBFF000706E5",
       "modules": {
         "clinica": true,
         "rotulado": true,
