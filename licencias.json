@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 150,
+  "total_dispositivos": 151,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1645,6 +1645,17 @@
       "cliente": "Yury Leidy Quiceno Carvajal",
       "device_name": "DESKTOP-B8CVIJO",
       "processor_id": "BFEBFBFF000706E5",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Sharik Alejandra Guzmán",
+      "device_name": "LAPTOP-H6AFIAKH",
+      "processor_id": "BFEBFBFF000B06A2",
       "modules": {
         "clinica": true,
         "rotulado": true,
