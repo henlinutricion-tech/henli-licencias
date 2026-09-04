@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 151,
+  "total_dispositivos": 150,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1650,8 +1650,7 @@
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": true
-      },
-      "expira": "2026-09-5"
+      }
     }
   ]
 }
