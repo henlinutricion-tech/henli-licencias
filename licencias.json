@@ -1654,7 +1654,7 @@
     },
     {
       "cliente": "José",
-      "device_name": "JOSE1",
+      "device_name": "JOSE22",
       "processor_id": "BFEBFBFF000B0671",
       "modules": {
         "clinica": true,
@@ -1662,7 +1662,7 @@
         "parenteral": true,
         "estandarizacion": false
       },
-      "expira": "2026-09-11"
+      "expira": "2026-09-5"
     }
   ]
 }
