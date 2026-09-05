@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 151,
+  "total_dispositivos": 152,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1656,6 +1656,17 @@
       "cliente": "Jason Martinez Camacho",
       "device_name": "JASON",
       "processor_id": "178BFBFF00860F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Valerie Martínez Hernández",
+      "device_name": "DESKTOP-KTU4N2S",
+      "processor_id": "BFEBFBFF000306A9",
       "modules": {
         "clinica": true,
         "rotulado": true,
