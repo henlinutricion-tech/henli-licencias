@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 152,
+  "total_dispositivos": 153,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1673,6 +1673,18 @@
         "parenteral": true,
         "estandarizacion": false
       }
+    },
+    {
+      "cliente": "Gabriela Camargo Rodríguez",
+      "device_name": "LAPTOP-UN660VAI",
+      "processor_id": "178BFBFF00810F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      },
+      "expira": "2026-09-12"
     }
   ]
 }
