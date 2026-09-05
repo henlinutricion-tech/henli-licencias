@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 150,
+  "total_dispositivos": 151,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1650,6 +1650,17 @@
         "rotulado": true,
         "parenteral": true,
         "estandarizacion": true
+      }
+    },
+    {
+      "cliente": "Jason Martinez Camacho",
+      "device_name": "JASON",
+      "processor_id": "178BFBFF00860F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
       }
     }
   ]
