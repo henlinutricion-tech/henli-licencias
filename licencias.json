@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 154,
+  "total_dispositivos": 155,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1690,6 +1690,17 @@
       "cliente": "CARL ERWIN FELIZZOLA SAMPAYO",
       "device_name": "CARLFELIZZOLA",
       "processor_id": "BFEBFBFF000B06A3",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Valerie Sofia Rojas Almendrales",
+      "device_name": "DESKTOP-RREG2TT",
+      "processor_id": "BFEBFBFF000806C1",
       "modules": {
         "clinica": true,
         "rotulado": true,
