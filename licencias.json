@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 155,
+  "total_dispositivos": 156,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1701,6 +1701,17 @@
       "cliente": "Valerie Sofia Rojas Almendrales",
       "device_name": "DESKTOP-RREG2TT",
       "processor_id": "BFEBFBFF000806C1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "FERNANDO VALLEJO CASTILLO",
+      "device_name": "FERNANDO",
+      "processor_id": "BFEBFBFF000B06E0",
       "modules": {
         "clinica": true,
         "rotulado": true,
