@@ -1642,15 +1642,16 @@
       }
     },
     {
-      "cliente": "José",
+      "cliente": "José Osorio Barrios",
       "device_name": "JOSE1",
       "processor_id": "BFEBFBFF000B0671",
       "modules": {
         "clinica": true,
         "rotulado": true,
         "parenteral": true,
-        "estandarizacion": true
-      }
+        "estandarizacion": false
+      },
+      "expira": "2026-09-14"
     },
     {
       "cliente": "Jason Martinez Camacho",
