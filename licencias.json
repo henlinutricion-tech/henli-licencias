@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 156,
+  "total_dispositivos": 157,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1712,6 +1712,17 @@
       "cliente": "FERNANDO VALLEJO CASTILLO",
       "device_name": "FERNANDO",
       "processor_id": "BFEBFBFF000B06E0",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "DIANA CRISTINA SERNA VIDALES",
+      "device_name": "DESKTOP-ILD2BSN",
+      "processor_id": "BFEBFBFF000806E9",
       "modules": {
         "clinica": true,
         "rotulado": true,
