@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 158,
+  "total_dispositivos": 159,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1734,6 +1734,17 @@
       "cliente": "Dainy Johandra Gutierrez Lopez",
       "device_name": "DESKTOP-QVLNBMR",
       "processor_id": "BFEBFBFF000806EC",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Gisell Andrea Diaz Paez",
+      "device_name": "DESKTOP-F3L5BVG",
+      "processor_id": "BFEBFBFF000906A4",
       "modules": {
         "clinica": true,
         "rotulado": true,
