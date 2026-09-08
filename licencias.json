@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 157,
+  "total_dispositivos": 158,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1723,6 +1723,17 @@
       "cliente": "DIANA CRISTINA SERNA VIDALES",
       "device_name": "DESKTOP-ILD2BSN",
       "processor_id": "BFEBFBFF000806E9",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Dainy Johandra Gutierrez Lopez",
+      "device_name": "DESKTOP-QVLNBMR",
+      "processor_id": "BFEBFBFF000806EC",
       "modules": {
         "clinica": true,
         "rotulado": true,
