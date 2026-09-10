@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 159,
+  "total_dispositivos": 160,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1745,6 +1745,17 @@
       "cliente": "Andrea Lucia Paternina Jimenez",
       "device_name": "PCISAANDY2830-",
       "processor_id": "BFEBFBFF000906C0",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Nancy Cuadro Castillejo",
+      "device_name": "DESKTOP-NFKJ2DQ",
+      "processor_id": "BFEBFBFF000706E5",
       "modules": {
         "clinica": true,
         "rotulado": true,
