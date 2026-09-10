@@ -938,17 +938,6 @@
       }
     },
     {
-      "cliente": "-",
-      "device_name": "JOSEPH",
-      "processor_id": "178BFBFF00860F81",
-      "modules": {
-        "clinica": true,
-        "rotulado": true,
-        "parenteral": true,
-        "estandarizacion": false
-      }
-    },
-    {
       "cliente": "Valentina serje",
       "device_name": "DESKTOP-KL400PV",
       "processor_id": "BFEBFBFF000806EC",
