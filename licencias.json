@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 159,
+  "total_dispositivos": 160,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1745,6 +1745,17 @@
       "cliente": "Gisell Andrea Diaz Paez",
       "device_name": "DESKTOP-F3L5BVG",
       "processor_id": "BFEBFBFF000906A4",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Jonathan Stiven Vargas Becerra",
+      "device_name": "JONATHAN_VARGAS",
+      "processor_id": "BFEBFBFF000906A3",
       "modules": {
         "clinica": true,
         "rotulado": true,
