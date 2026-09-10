@@ -1740,6 +1740,17 @@
         "parenteral": true,
         "estandarizacion": false
       }
+    },
+    {
+      "cliente": "Andrea Lucia Paternina Jimenez",
+      "device_name": "PCISAANDY2830-",
+      "processor_id": "BFEBFBFF000906C0",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
     }
   ]
 }
