@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 161,
+  "total_dispositivos": 162,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1767,6 +1767,17 @@
       "cliente": "Andrea Rojas Carrasco",
       "device_name": "DESKTOP-8CT1RGO",
       "processor_id": "178BFBFF00810F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Marcela Giraldo Gómez",
+      "device_name": "DESKTOP-M9OLLQ9",
+      "processor_id": "BFEBFBFF000706A8",
       "modules": {
         "clinica": true,
         "rotulado": true,
