@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 163,
+  "total_dispositivos": 162,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1117,17 +1117,6 @@
       "cliente": "Daniela Ochoa",
       "device_name": "DESKTOP-139IB9A",
       "processor_id": "178BFBFF00A50F00",
-      "modules": {
-        "clinica": true,
-        "rotulado": false,
-        "parenteral": true,
-        "estandarizacion": false
-      }
-    },
-    {
-      "cliente": "Angie Royero",
-      "device_name": "DESKTOP-KTDO2ME",
-      "processor_id": "BFEBFBFF000B06E0",
       "modules": {
         "clinica": true,
         "rotulado": false,
