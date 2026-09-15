@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 162,
+  "total_dispositivos": 163,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1778,6 +1778,17 @@
       "cliente": "Angie Royero Tovar",
       "device_name": "ANGIEPC",
       "processor_id": "BFEBFBFF000B06E0",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "María Alejandra Enamorado Romero",
+      "device_name": "DESKTOP-TU7Q9RL",
+      "processor_id": "178BFBFF00860F81",
       "modules": {
         "clinica": true,
         "rotulado": true,
