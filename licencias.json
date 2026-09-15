@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 162,
+  "total_dispositivos": 163,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1778,6 +1778,17 @@
       "cliente": "Marcela Giraldo Gómez",
       "device_name": "DESKTOP-M9OLLQ9",
       "processor_id": "BFEBFBFF000706A8",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Angie Royero Tovar",
+      "device_name": "ANGIEPC",
+      "processor_id": "BFEBFBFF000B06E0",
       "modules": {
         "clinica": true,
         "rotulado": true,
