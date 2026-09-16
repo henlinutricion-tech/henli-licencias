@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 163,
+  "total_dispositivos": 164,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1789,6 +1789,17 @@
       "cliente": "María Alejandra Enamorado Romero",
       "device_name": "DESKTOP-TU7Q9RL",
       "processor_id": "178BFBFF00860F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Sandra Milena Jaramillo Jaramillo",
+      "device_name": "DESKTOP-D2TDGJ6",
+      "processor_id": "BFEBFBFF000706A8",
       "modules": {
         "clinica": true,
         "rotulado": true,
