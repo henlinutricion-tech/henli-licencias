@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 163,
+  "total_dispositivos": 164,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1788,6 +1788,17 @@
       "cliente": "Sandra Milena Jaramillo Jaramillo",
       "device_name": "DESKTOP-D2TDGJ6",
       "processor_id": "BFEBFBFF000706A8",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Andreina Perez Diaz",
+      "device_name": "LAPTOP-UC76LJ8B",
+      "processor_id": "BFEBFBFF000806C1",
       "modules": {
         "clinica": true,
         "rotulado": true,
