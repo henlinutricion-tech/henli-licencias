@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 164,
+  "total_dispositivos": 165,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1799,6 +1799,17 @@
       "cliente": "Andreina Perez Diaz",
       "device_name": "LAPTOP-UC76LJ8B",
       "processor_id": "BFEBFBFF000806C1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Isabella Lerma",
+      "device_name": "ISABELLAVICTUS",
+      "processor_id": "178BFBFF00A70FC0",
       "modules": {
         "clinica": true,
         "rotulado": true,
