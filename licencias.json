@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 166,
+  "total_dispositivos": 167,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1821,6 +1821,17 @@
       "cliente": "JESUS ANTONIO SARMIENTO QUINTERO",
       "device_name": "DESKTOP-76H271M",
       "processor_id": "BFEBFBFF000706A8",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Luznellys Carolina Berdugo Martelo",
+      "device_name": "LUZNELLYS09",
+      "processor_id": "178BFBFF008A0F00",
       "modules": {
         "clinica": true,
         "rotulado": true,
