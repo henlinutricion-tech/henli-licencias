@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 168,
+  "total_dispositivos": 169,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1843,6 +1843,17 @@
       "cliente": "andre carolina perez garcia",
       "device_name": "LAPTOP-S89SMK6C",
       "processor_id": "178BFBFF00810F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "ADRIANA MEDINA BERROCAL",
+      "device_name": "LAPTOP-1NNVDCBJ",
+      "processor_id": "178BFBFF00A50F00",
       "modules": {
         "clinica": true,
         "rotulado": true,
