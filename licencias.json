@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 168,
+  "total_dispositivos": 167,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -875,17 +875,6 @@
       "cliente": "Luna Sabala",
       "device_name": "LUNASABALA",
       "processor_id": "178BFBFF00860F01",
-      "modules": {
-        "clinica": true,
-        "rotulado": true,
-        "parenteral": true,
-        "estandarizacion": false
-      }
-    },
-    {
-      "cliente": "Andrea Perez",
-      "device_name": "DESKTOP-122772O",
-      "processor_id": "BFEBFBFF00040651",
       "modules": {
         "clinica": true,
         "rotulado": true,
