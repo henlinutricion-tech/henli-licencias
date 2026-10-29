@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 170,
+  "total_dispositivos": 171,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1865,6 +1865,17 @@
       "cliente": "Estefanny paola Montenegro quiroz",
       "device_name": "DESKTOP-EO4AUV3",
       "processor_id": "BFEBFBFF000B06E0",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "JUAN CARLOS BALCAZAR MENDOZA",
+      "device_name": "DESKTOP-VKQ3F52",
+      "processor_id": "BFEBFBFF000806EA",
       "modules": {
         "clinica": true,
         "rotulado": true,
