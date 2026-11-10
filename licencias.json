@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 171,
+  "total_dispositivos": 172,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1876,6 +1876,17 @@
       "cliente": "JUAN CARLOS BALCAZAR MENDOZA",
       "device_name": "DESKTOP-VKQ3F52",
       "processor_id": "BFEBFBFF000806EA",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Yuly Hazarmaveth Carvajal Gómez",
+      "device_name": "YULYCARVAJALG",
+      "processor_id": "BFEBFBFF000906A3",
       "modules": {
         "clinica": true,
         "rotulado": true,
