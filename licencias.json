@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 172,
+  "total_dispositivos": 173,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1887,6 +1887,17 @@
       "cliente": "Yuly Hazarmaveth Carvajal Gómez",
       "device_name": "YULYCARVAJALG",
       "processor_id": "BFEBFBFF000906A3",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Zury Sabrina Quinto Gómez",
+      "device_name": "DESKTOP-L5OAIK8",
+      "processor_id": "178BFBFF008A0F00",
       "modules": {
         "clinica": true,
         "rotulado": true,
