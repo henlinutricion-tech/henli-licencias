@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 173,
+  "total_dispositivos": 174,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1897,6 +1897,17 @@
     {
       "cliente": "Zury Sabrina Quinto Gómez",
       "device_name": "DESKTOP-L5OAIK8",
+      "processor_id": "178BFBFF008A0F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Laura Victoria Mercado Pimienta",
+      "device_name": "LAU",
       "processor_id": "178BFBFF008A0F00",
       "modules": {
         "clinica": true,
