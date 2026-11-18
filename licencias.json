@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 174,
+  "total_dispositivos": 175,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1908,6 +1908,17 @@
     {
       "cliente": "Laura Victoria Mercado Pimienta",
       "device_name": "LAU",
+      "processor_id": "178BFBFF008A0F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Maria Mercado",
+      "device_name": "MARIAISABEL",
       "processor_id": "178BFBFF008A0F00",
       "modules": {
         "clinica": true,
