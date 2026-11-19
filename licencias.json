@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 175,
+  "total_dispositivos": 176,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1920,6 +1920,17 @@
       "cliente": "Maria Mercado",
       "device_name": "MARIAISABEL",
       "processor_id": "178BFBFF008A0F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Valentina Marieth Orozco Charris",
+      "device_name": "IDEAPAD-3-15ITL",
+      "processor_id": "BFEBFBFF000806C1",
       "modules": {
         "clinica": true,
         "rotulado": true,
