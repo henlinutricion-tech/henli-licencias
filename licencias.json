@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 177,
+  "total_dispositivos": 178,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1942,6 +1942,17 @@
       "cliente": "Yuranis Bonilla Lens",
       "device_name": "YURA-DESKTOP-G2",
       "processor_id": "BFEBFBFF000906A4",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Chaireth karolay mattos rodriguez",
+      "device_name": "LAPTOP-F4JP94DQ",
+      "processor_id": "178BFBFF008A0F00",
       "modules": {
         "clinica": true,
         "rotulado": true,
