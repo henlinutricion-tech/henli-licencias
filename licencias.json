@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 176,
+  "total_dispositivos": 177,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1931,6 +1931,17 @@
       "cliente": "Valentina Marieth Orozco Charris",
       "device_name": "IDEAPAD-3-15ITL",
       "processor_id": "BFEBFBFF000806C1",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Yuranis Bonilla Lens",
+      "device_name": "YURA-DESKTOP-G2",
+      "processor_id": "BFEBFBFF000906A4",
       "modules": {
         "clinica": true,
         "rotulado": true,
