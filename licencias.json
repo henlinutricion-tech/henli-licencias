@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 178,
+  "total_dispositivos": 179,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1953,6 +1953,17 @@
       "cliente": "Chaireth karolay mattos rodriguez",
       "device_name": "LAPTOP-F4JP94DQ",
       "processor_id": "178BFBFF008A0F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Natalia Isabel Florez Perozo",
+      "device_name": "NATALIAFLOREZ",
+      "processor_id": "178BFBFF00860F81",
       "modules": {
         "clinica": true,
         "rotulado": true,
