@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 179,
+  "total_dispositivos": 180,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1964,6 +1964,17 @@
       "cliente": "Natalia Isabel Florez Perozo",
       "device_name": "NATALIAFLOREZ",
       "processor_id": "178BFBFF00860F81",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Sharith Karina Estrada Vanegas",
+      "device_name": "LAPTOP-5V6I73GE",
+      "processor_id": "178BFBFF008A0F00",
       "modules": {
         "clinica": true,
         "rotulado": true,
