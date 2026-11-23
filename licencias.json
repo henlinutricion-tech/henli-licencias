@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 180,
+  "total_dispositivos": 181,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1975,6 +1975,17 @@
       "cliente": "Sharith Karina Estrada Vanegas",
       "device_name": "LAPTOP-5V6I73GE",
       "processor_id": "178BFBFF008A0F00",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Maria Paz Zambrano",
+      "device_name": "LAZ",
+      "processor_id": "BFEBFBFF000906A3",
       "modules": {
         "clinica": true,
         "rotulado": true,
