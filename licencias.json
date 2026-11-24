@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 181,
+  "total_dispositivos": 182,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1986,6 +1986,17 @@
       "cliente": "Maria Paz Zambrano",
       "device_name": "LAZ",
       "processor_id": "BFEBFBFF000906A3",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "MARIANA PIMIENTA ORTEGA",
+      "device_name": "LAPTOP-MMNIMRHM",
+      "processor_id": "BFEBFBFF000B06E0",
       "modules": {
         "clinica": true,
         "rotulado": true,
