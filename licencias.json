@@ -1,6 +1,6 @@
 {
   "version": "3.3",
-  "total_dispositivos": 182,
+  "total_dispositivos": 183,
   "devices": [
     {
       "cliente": "Jose CEO 1",
@@ -1997,6 +1997,17 @@
       "cliente": "MARIANA PIMIENTA ORTEGA",
       "device_name": "LAPTOP-MMNIMRHM",
       "processor_id": "BFEBFBFF000B06E0",
+      "modules": {
+        "clinica": true,
+        "rotulado": true,
+        "parenteral": true,
+        "estandarizacion": false
+      }
+    },
+    {
+      "cliente": "Nicoll Juliana Herrera Teran",
+      "device_name": "DESKTOP-NVLLVPJ",
+      "processor_id": "BFEBFBFF000806C1",
       "modules": {
         "clinica": true,
         "rotulado": true,
